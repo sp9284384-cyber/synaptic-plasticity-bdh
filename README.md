@@ -4,6 +4,10 @@
 
 **Live artifact:** `public/index.html` (open directly in any browser, no server, no sign-in, no build step)
 
+**Deployment Link:** https://synaptic-plasticity-bdh.vercel.app/
+
+**Repository Link:** https://github.com/sp9284384-cyber/synaptic-plasticity-bdh
+
 ---
 
 ## The one-sentence claim
